@@ -4,7 +4,7 @@ import json
 import streamlit as st
 
 # Define your Google Gemini API key and endpoint
-GEMINI_API_KEY = "AIzaSyA9pYRt95gwUm3UvoZTy30PQ0P65F8niYA"  # Replace with your actual API key
+GEMINI_API_KEY = "AIzaSyDGV970SIPYBwz0tvkl8fxDduVyhLVw3fE"  # Replace with your actual API key
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
 
 # Load your CSV file into a pandas DataFrame
